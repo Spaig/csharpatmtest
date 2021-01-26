@@ -1,0 +1,13 @@
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\obj\Debug\netcoreapp3.1\csharpatmtest.csprojAssemblyReference.cache
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\obj\Debug\netcoreapp3.1\csharpatmtest.AssemblyInfoInputs.cache
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\obj\Debug\netcoreapp3.1\csharpatmtest.AssemblyInfo.cs
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\obj\Debug\netcoreapp3.1\csharpatmtest.csproj.CoreCompileInputs.cache
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\bin\Debug\netcoreapp3.1\csharpatmtest.exe
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\bin\Debug\netcoreapp3.1\csharpatmtest.deps.json
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\bin\Debug\netcoreapp3.1\csharpatmtest.runtimeconfig.json
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\bin\Debug\netcoreapp3.1\csharpatmtest.runtimeconfig.dev.json
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\bin\Debug\netcoreapp3.1\csharpatmtest.dll
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\bin\Debug\netcoreapp3.1\csharpatmtest.pdb
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\obj\Debug\netcoreapp3.1\csharpatmtest.dll
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\obj\Debug\netcoreapp3.1\csharpatmtest.pdb
+C:\Users\Del Spaig\source\repos\csharpatmtest\csharpatmtest\obj\Debug\netcoreapp3.1\csharpatmtest.genruntimeconfig.cache
